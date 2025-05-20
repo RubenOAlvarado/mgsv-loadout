@@ -1,2 +1,2 @@
-# mgsv-loadout
-A simple example to ilustrate builder pattern using the prep mission screen as its shown in Metal Gear Solid V: The Phantom Pain. Made with Go
+# A Simple Builder Pattern Example Inspired by Metal Gear Solid V
+This project demonstrates the Builder design pattern through a simplified recreation of the prep mission screen from Metal Gear Solid V: The Phantom Pain. Built with Go, it serves as a clear and practical illustration of how to construct complex objects step-by-step using a fluent and modular approach.
